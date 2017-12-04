@@ -12,6 +12,7 @@
         <Label x:Name="label1" Content="Label" HorizontalAlignment="Left" Margin="258,56,0,0" VerticalAlignment="Top"/>
         <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="244,227,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
         <RadioButton x:Name="radioButton" Content="RadioButton" HorizontalAlignment="Left" Margin="120,189,0,0" VerticalAlignment="Top"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="123" Margin="325,82,0,0" VerticalAlignment="Top" Width="186" Source="http://www.tecnologicoedupraxis.com/wp-content/uploads/2016/11/Marketing-Digital-Tecnol%C3%B3gico-Edupraxis1.jpg"/>
 
     </Grid>
 </Window>
